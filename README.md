@@ -10,7 +10,7 @@ A simple web-based calculator with a soft pink flower background. Built using **
 
 - Basic arithmetic operations: `+`, `-`, `*`, `/`
 - Responsive and clean UI
-- Aesthetic flower background
+- Aesthetic background
 - Clear (`C`) and decimal (`.`) support
 
 ---
